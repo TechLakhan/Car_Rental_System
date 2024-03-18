@@ -1,5 +1,4 @@
-
-class Cars {
+public class Cars {
 //    Attributes initialization
     private String carId;
 
@@ -10,6 +9,10 @@ class Cars {
     private double pricePerDay;
 
     private boolean isAvailable;
+
+    public Cars () {
+
+    }
 
     public Cars(String carId, String model, String brand, double pricePerDay) {
         this.carId = carId;

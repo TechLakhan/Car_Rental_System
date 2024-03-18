@@ -1,0 +1,302 @@
+[
+  {
+    "carId": "C001",
+    "model": "Dzire",
+    "brand": "MarutiSuzuki",
+    "pricePerDay": 30.0
+  },
+  {
+    "carId": "C002",
+    "model": "Nexon",
+    "brand": "Tata",
+    "pricePerDay": 55.0
+  },
+  {
+    "carId": "C003",
+    "model": "Thar",
+    "brand": "Mahindra",
+    "pricePerDay": 95.6
+  },
+  {
+    "carId": "C004",
+    "model": "Civic",
+    "brand": "Honda",
+    "pricePerDay": 40.0
+  },
+  {
+    "carId": "C005",
+    "model": "Corolla",
+    "brand": "Toyota",
+    "pricePerDay": 45.0
+  },
+  {
+    "carId": "C006",
+    "model": "Camry",
+    "brand": "Toyota",
+    "pricePerDay": 50.0
+  },
+  {
+    "carId": "C007",
+    "model": "Accord",
+    "brand": "Honda",
+    "pricePerDay": 55.0
+  },
+  {
+    "carId": "C008",
+    "model": "Sonata",
+    "brand": "Hyundai",
+    "pricePerDay": 60.0
+  },
+  {
+    "carId": "C009",
+    "model": "Optima",
+    "brand": "Kia",
+    "pricePerDay": 65.0
+  },
+  {
+    "carId": "C010",
+    "model": "Cruze",
+    "brand": "Chevrolet",
+    "pricePerDay": 55.0
+  },
+  {
+    "carId": "C011",
+    "model": "Malibu",
+    "brand": "Chevrolet",
+    "pricePerDay": 60.0
+  },
+  {
+    "carId": "C012",
+    "model": "Fusion",
+    "brand": "Ford",
+    "pricePerDay": 65.0
+  },
+  {
+    "carId": "C013",
+    "model": "Mustang",
+    "brand": "Ford",
+    "pricePerDay": 70.0
+  },
+  {
+    "carId": "C014",
+    "model": "Charger",
+    "brand": "Dodge",
+    "pricePerDay": 75.0
+  },
+  {
+    "carId": "C015",
+    "model": "Challenger",
+    "brand": "Dodge",
+    "pricePerDay": 80.0
+  },
+  {
+    "carId": "C016",
+    "model": "Model S",
+    "brand": "Tesla",
+    "pricePerDay": 80.0
+  },
+  {
+    "carId": "C017",
+    "model": "Model 3",
+    "brand": "Tesla",
+    "pricePerDay": 85.0
+  },
+  {
+    "carId": "C018",
+    "model": "Model X",
+    "brand": "Tesla",
+    "pricePerDay": 90.0
+  },
+  {
+    "carId": "C019",
+    "model": "Model Y",
+    "brand": "Tesla",
+    "pricePerDay": 95.0
+  },
+  {
+    "carId": "C020",
+    "model": "3 Series",
+    "brand": "BMW",
+    "pricePerDay": 100.0
+  },
+  {
+    "carId": "C021",
+    "model": "5 Series",
+    "brand": "BMW",
+    "pricePerDay": 105.0
+  },
+  {
+    "carId": "C022",
+    "model": "A3",
+    "brand": "Audi",
+    "pricePerDay": 110.0
+  },
+  {
+    "carId": "C023",
+    "model": "A4",
+    "brand": "Audi",
+    "pricePerDay": 115.0
+  },
+  {
+    "carId": "C024",
+    "model": "C-Class",
+    "brand": "Mercedes-Benz",
+    "pricePerDay": 120.0
+  },
+  {
+    "carId": "C025",
+    "model": "E-Class",
+    "brand": "Mercedes-Benz",
+    "pricePerDay": 125.0
+  },
+  {
+    "carId": "C026",
+    "model": "GLC",
+    "brand": "Mercedes-Benz",
+    "pricePerDay": 130.0
+  },
+  {
+    "carId": "C027",
+    "model": "GLE",
+    "brand": "Mercedes-Benz",
+    "pricePerDay": 135.0
+  },
+  {
+    "carId": "C028",
+    "model": "Q3",
+    "brand": "Audi",
+    "pricePerDay": 140.0
+  },
+  {
+    "carId": "C029",
+    "model": "Q5",
+    "brand": "Audi",
+    "pricePerDay": 145.0
+  },
+  {
+    "carId": "C030",
+    "model": "XC40",
+    "brand": "Volvo",
+    "pricePerDay": 150.0
+  },
+  {
+    "carId": "C031",
+    "model": "XC60",
+    "brand": "Volvo",
+    "pricePerDay": 155.0
+  },
+  {
+    "carId": "C032",
+    "model": "S60",
+    "brand": "Volvo",
+    "pricePerDay": 160.0
+  },
+  {
+    "carId": "C033",
+    "model": "S90",
+    "brand": "Volvo",
+    "pricePerDay": 165.0
+  },
+  {
+    "carId": "C034",
+    "model": "A6",
+    "brand": "Audi",
+    "pricePerDay": 170.0
+  },
+  {
+    "carId": "C035",
+    "model": "A8",
+    "brand": "Audi",
+    "pricePerDay": 175.0
+  },
+  {
+    "carId": "C036",
+    "model": "G70",
+    "brand": "Genesis",
+    "pricePerDay": 180.0
+  },
+  {
+    "carId": "C037",
+    "model": "G80",
+    "brand": "Genesis",
+    "pricePerDay": 185.0
+  },
+  {
+    "carId": "C038",
+    "model": "GS",
+    "brand": "Lexus",
+    "pricePerDay": 190.0
+  },
+  {
+    "carId": "C039",
+    "model": "IS",
+    "brand": "Lexus",
+    "pricePerDay": 195.0
+  },
+  {
+    "carId": "C040",
+    "model": "3",
+    "brand": "Mazda",
+    "pricePerDay": 200.0
+  },
+  {
+    "carId": "C041",
+    "model": "6",
+    "brand": "Mazda",
+    "pricePerDay": 205.0
+  },
+  {
+    "carId": "C042",
+    "model": "Civic",
+    "brand": "Honda",
+    "pricePerDay": 210.0
+  },
+  {
+    "carId": "C043",
+    "model": "CR-V",
+    "brand": "Honda",
+    "pricePerDay": 215.0
+  },
+  {
+    "carId": "C044",
+    "model": "C-HR",
+    "brand": "Toyota",
+    "pricePerDay": 220.0
+  },
+  {
+    "carId": "C045",
+    "model": "RAV4",
+    "brand": "Toyota",
+    "pricePerDay": 225.0
+  },
+  {
+    "carId": "C046",
+    "model": "Tucson",
+    "brand": "Hyundai",
+    "pricePerDay": 230.0
+  },
+  {
+    "carId": "C047",
+    "model": "Santa Fe",
+    "brand": "Hyundai",
+    "pricePerDay": 235.0
+  },
+  {
+    "carId": "C048",
+    "model": "Mazda3",
+    "brand": "Mazda",
+    "pricePerDay": 240.0
+  },
+  {
+    "carId": "C049",
+    "model": "Mazda6",
+    "brand": "Mazda",
+    "pricePerDay": 245.0
+  },
+  {
+    "carId": "C050",
+    "model": "CX-5",
+    "brand": "Mazda",
+    "pricePerDay": 250.0
+  }
+]
