@@ -295,8 +295,8 @@
   },
   {
     "carId": "C050",
-    "model": "CX-5",
-    "brand": "Mazda",
-    "pricePerDay": 250.0
+    "model": "Fabia",
+    "brand": "Skoda",
+    "pricePerDay": 120.0
   }
 ]

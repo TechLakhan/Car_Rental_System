@@ -1,3 +1,6 @@
+//import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+//@JsonIgnoreProperties(ignoreUnknown = true)
 public class Cars {
 //    Attributes initialization
     private String carId;
@@ -8,7 +11,7 @@ public class Cars {
 
     private double pricePerDay;
 
-    private boolean isAvailable;
+    private boolean isAvailable = true;
 
     public Cars () {
 
@@ -19,7 +22,6 @@ public class Cars {
         this.model = model;
         this.brand = brand;
         this.pricePerDay = pricePerDay;
-        this.isAvailable = true;
     }
 
     public String getCarId() {
@@ -32,6 +34,10 @@ public class Cars {
 
     public String getBrand() {
         return brand;
+    }
+
+    public double getPricePerDay() {
+        return pricePerDay;
     }
 
     public double totalPrice(double rentalDays) {

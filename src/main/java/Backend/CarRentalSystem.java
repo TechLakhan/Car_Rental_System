@@ -71,10 +71,10 @@ public class CarRentalSystem {
                 System.out.println("Enter your Name");
                 customerName = input.nextLine();
 
-                System.out.println("\n -> Available Cars ->");
+                System.out.println("\n -> Available Cars <-");
                 for (Cars car : cars) {
                     if (car.isAvailable()) {
-                        System.out.println(car.getCarId() + " - " + car.getBrand() + " - " + car.getModel());
+                        System.out.println(car.getCarId() + " - " + car.getBrand() + " - " + car.getModel() +  " - " + car.getPricePerDay());
                     }
                 }
 
@@ -85,7 +85,7 @@ public class CarRentalSystem {
                 int rentalDays = input.nextInt();
                 input.nextLine();
 
-                Customer newCustomer = new Customer("CUS" + (customers.size() + 1), customerName);
+                Customer newCustomer = new Customer(customerName + (customers.size() + 1), customerName);
                 customerInfo(newCustomer);
 
                 Cars selectedCar = null;
@@ -125,7 +125,7 @@ public class CarRentalSystem {
 
                 Cars carToReturn = null;
                 for (Cars car : cars) {
-                    if (car.getCarId().equals(carId) && !car.isAvailable()) {
+                    if (car.getCarId().equals(carId) || !car.isAvailable()) {
                         carToReturn = car;
                         break;
                     }
@@ -141,7 +141,7 @@ public class CarRentalSystem {
                     }
                     if (customer != null) {
                         returnCar(carToReturn);
-                        System.out.println("Car returned successfully by " + customer.getCustomerName() + " Thank you ! Please visit Again !");
+                        System.out.println("Car returned successfully by " + customer.getCustomerName());
                     } else {
                         System.out.println("Car was not rented or rental information is missing.");
                     }
