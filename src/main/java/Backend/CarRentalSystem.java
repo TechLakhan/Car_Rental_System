@@ -45,7 +45,6 @@ public class CarRentalSystem {
         }
         if (rentalToRemove != null) {
             rentals.remove(rentalToRemove);
-            System.out.println("Car returned successfully.");
         }
         else {
             System.out.println("Car was not rented.");
@@ -85,7 +84,7 @@ public class CarRentalSystem {
                 int rentalDays = input.nextInt();
                 input.nextLine();
 
-                Customer newCustomer = new Customer(customerName + (customers.size() + 1), customerName);
+                Customer newCustomer = new Customer(customerName, "Customer" + (customers.size() +1 ));
                 customerInfo(newCustomer);
 
                 Cars selectedCar = null;
@@ -133,14 +132,18 @@ public class CarRentalSystem {
 
                 if (carToReturn != null) {
                     Customer customer = null;
+                    boolean carRented = false; // Flag to track if the car was rented
                     for (Rental rental : rentals) {
-                        if (rental.getCar() == carToReturn) {
+                        if (rental.getCar().getCarId().equals(carId)) { // Check if the car ID matches
+                            carRented = true;
                             customer = rental.getCustomer();
-                            break;
+                            break; // No need to continue searching if the rental is found
                         }
                     }
                     if (customer != null) {
                         returnCar(carToReturn);
+                        CarRentalSystem rentalSystem = new CarRentalSystem();
+                        rentalSystem.addCar(carToReturn);
                         System.out.println("Car returned successfully by " + customer.getCustomerName());
                     } else {
                         System.out.println("Car was not rented or rental information is missing.");
