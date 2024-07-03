@@ -1,4 +1,4 @@
-package com.Uzumaki.Car_Rental_System.Car_Rental_System_Data.Car_Rental_Application;
+package com.Uzumaki.Car_Rental_System.Car_Rental_Application;
 
 import com.Uzumaki.Car_Rental_System.Car_Rental_System_Data.JsonDataMigration;
 import com.fasterxml.jackson.databind.ObjectMapper;

@@ -1,6 +1,6 @@
 package com.Uzumaki.Car_Rental_System.Car_Rental_System_Data;
 
-import com.Uzumaki.Car_Rental_System.Car_Rental_System_Data.Car_Rental_Application.Car;
+import com.Uzumaki.Car_Rental_System.Car_Rental_Application.Car;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
