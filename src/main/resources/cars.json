@@ -1,0 +1,302 @@
+[
+  {
+    "Car_Id": "C001",
+    "model": "Fabia",
+    "brand": "Skoda",
+    "pricePerDay": 4000
+  },
+  {
+    "Car_Id": "C002",
+    "model": "Civic",
+    "brand": "Honda",
+    "pricePerDay": 4500
+  },
+  {
+    "Car_Id": "C003",
+    "model": "Model S",
+    "brand": "Tesla",
+    "pricePerDay": 15000
+  },
+  {
+    "Car_Id": "C004",
+    "model": "Mustang",
+    "brand": "Ford",
+    "pricePerDay": 7000
+  },
+  {
+    "Car_Id": "C005",
+    "model": "A4",
+    "brand": "Audi",
+    "pricePerDay": 6000
+  },
+  {
+    "Car_Id": "C006",
+    "model": "Camry",
+    "brand": "Toyota",
+    "pricePerDay": 5000
+  },
+  {
+    "Car_Id": "C007",
+    "model": "3 Series",
+    "brand": "BMW",
+    "pricePerDay": 8000
+  },
+  {
+    "Car_Id": "C008",
+    "model": "Impreza",
+    "brand": "Subaru",
+    "pricePerDay": 4500
+  },
+  {
+    "Car_Id": "C009",
+    "model": "Altima",
+    "brand": "Nissan",
+    "pricePerDay": 4000
+  },
+  {
+    "Car_Id": "C010",
+    "model": "Golf",
+    "brand": "Volkswagen",
+    "pricePerDay": 5000
+  },
+  {
+    "Car_Id": "C011",
+    "model": "Qashqai",
+    "brand": "Nissan",
+    "pricePerDay": 4500
+  },
+  {
+    "Car_Id": "C012",
+    "model": "Accord",
+    "brand": "Honda",
+    "pricePerDay": 5500
+  },
+  {
+    "Car_Id": "C013",
+    "model": "CX-5",
+    "brand": "Mazda",
+    "pricePerDay": 6000
+  },
+  {
+    "Car_Id": "C014",
+    "model": "Tucson",
+    "brand": "Hyundai",
+    "pricePerDay": 5000
+  },
+  {
+    "Car_Id": "C015",
+    "model": "XC60",
+    "brand": "Volvo",
+    "pricePerDay": 7000
+  },
+  {
+    "Car_Id": "C016",
+    "model": "Cherokee",
+    "brand": "Jeep",
+    "pricePerDay": 7500
+  },
+  {
+    "Car_Id": "C017",
+    "model": "Explorer",
+    "brand": "Ford",
+    "pricePerDay": 8000
+  },
+  {
+    "Car_Id": "C018",
+    "model": "Rogue",
+    "brand": "Nissan",
+    "pricePerDay": 5000
+  },
+  {
+    "Car_Id": "C019",
+    "model": "X5",
+    "brand": "BMW",
+    "pricePerDay": 10000
+  },
+  {
+    "Car_Id": "C020",
+    "model": "RX",
+    "brand": "Lexus",
+    "pricePerDay": 9500
+  },
+  {
+    "Car_Id": "C021",
+    "model": "Optima",
+    "brand": "Kia",
+    "pricePerDay": 4000
+  },
+  {
+    "Car_Id": "C022",
+    "model": "S60",
+    "brand": "Volvo",
+    "pricePerDay": 7000
+  },
+  {
+    "Car_Id": "C023",
+    "model": "Leaf",
+    "brand": "Nissan",
+    "pricePerDay": 3500
+  },
+  {
+    "Car_Id": "C024",
+    "model": "Outlander",
+    "brand": "Mitsubishi",
+    "pricePerDay": 6000
+  },
+  {
+    "Car_Id": "C025",
+    "model": "Escape",
+    "brand": "Ford",
+    "pricePerDay": 5000
+  },
+  {
+    "Car_Id": "C026",
+    "model": "Soul",
+    "brand": "Kia",
+    "pricePerDay": 4500
+  },
+  {
+    "Car_Id": "C027",
+    "model": "Tiguan",
+    "brand": "Volkswagen",
+    "pricePerDay": 7000
+  },
+  {
+    "Car_Id": "C028",
+    "model": "Q5",
+    "brand": "Audi",
+    "pricePerDay": 8500
+  },
+  {
+    "Car_Id": "C029",
+    "model": "Sportage",
+    "brand": "Kia",
+    "pricePerDay": 6000
+  },
+  {
+    "Car_Id": "C030",
+    "model": "Macan",
+    "brand": "Porsche",
+    "pricePerDay": 15000
+  },
+  {
+    "Car_Id": "C031",
+    "model": "CX-3",
+    "brand": "Mazda",
+    "pricePerDay": 4500
+  },
+  {
+    "Car_Id": "C032",
+    "model": "RAV4",
+    "brand": "Toyota",
+    "pricePerDay": 6000
+  },
+  {
+    "Car_Id": "C033",
+    "model": "Santa Fe",
+    "brand": "Hyundai",
+    "pricePerDay": 7000
+  },
+  {
+    "Car_Id": "C034",
+    "model": "Compass",
+    "brand": "Jeep",
+    "pricePerDay": 5000
+  },
+  {
+    "Car_Id": "C035",
+    "model": "Forester",
+    "brand": "Subaru",
+    "pricePerDay": 6000
+  },
+  {
+    "Car_Id": "C036",
+    "model": "CR-V",
+    "brand": "Honda",
+    "pricePerDay": 6500
+  },
+  {
+    "Car_Id": "C037",
+    "model": "Highlander",
+    "brand": "Toyota",
+    "pricePerDay": 7500
+  },
+  {
+    "Car_Id": "C038",
+    "model": "Q7",
+    "brand": "Audi",
+    "pricePerDay": 10000
+  },
+  {
+    "Car_Id": "C039",
+    "model": "Model X",
+    "brand": "Tesla",
+    "pricePerDay": 20000
+  },
+  {
+    "Car_Id": "C040",
+    "model": "Cayenne",
+    "brand": "Porsche",
+    "pricePerDay": 18000
+  },
+  {
+    "Car_Id": "C041",
+    "model": "X3",
+    "brand": "BMW",
+    "pricePerDay": 9000
+  },
+  {
+    "Car_Id": "C042",
+    "model": "RX",
+    "brand": "Lexus",
+    "pricePerDay": 9500
+  },
+  {
+    "Car_Id": "C043",
+    "model": "Sorento",
+    "brand": "Kia",
+    "pricePerDay": 6500
+  },
+  {
+    "Car_Id": "C044",
+    "model": "Edge",
+    "brand": "Ford",
+    "pricePerDay": 7000
+  },
+  {
+    "Car_Id": "C045",
+    "model": "Tundra",
+    "brand": "Toyota",
+    "pricePerDay": 8000
+  },
+  {
+    "Car_Id": "C046",
+    "model": "Maverick",
+    "brand": "Ford",
+    "pricePerDay": 8500
+  },
+  {
+    "Car_Id": "C047",
+    "model": "Wrangler",
+    "brand": "Jeep",
+    "pricePerDay": 9000
+  },
+  {
+    "Car_Id": "C048",
+    "model": "F-Pace",
+    "brand": "Jaguar",
+    "pricePerDay": 10000
+  },
+  {
+    "Car_Id": "C049",
+    "model": "Levante",
+    "brand": "Maserati",
+    "pricePerDay": 15000
+  },
+  {
+    "Car_Id": "C050",
+    "model": "E-Pace",
+    "brand": "Jaguar",
+    "pricePerDay": 8500
+  }
+]
